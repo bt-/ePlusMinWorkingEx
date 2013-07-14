@@ -1,0 +1,10 @@
+eplusout.eso
+sHELLcSVnAME
+STORAGE TANK,Water Heater Heating Energy
+INSTANTANEOUS WATER HEATER,Water Heater Heating Energy
+STORAGE TANK,Water Heater Tank Temperature
+COLLECTOR 1,Solar Collector Heat Transfer Energy
+STORAGE TANK,Water Heater Heat Loss Energy
+SPACE WATER LOAD,Plant Load Profile Heating Energy
+COLLECTOR 1,Solar Collector Efficiency
+0
