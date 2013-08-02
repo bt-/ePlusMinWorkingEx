@@ -719,6 +719,7 @@ Output:VariableDictionary,
   IDF,
   Unsorted;
 
+Output:Variable,*,Water Heater Use Side Heat Transfer Energy,hourly; !- HVAC Sum [J]
 Output:Variable,*,Water Heater Heating Energy,hourly; !- HVAC Sum [J]
 Output:Variable,*,Water Heater Tank Temperature,hourly; !- HVAC Average [C]
 Output:Variable,*,Solar Collector Heat Transfer Energy,hourly; !- HVAC Sum [J]

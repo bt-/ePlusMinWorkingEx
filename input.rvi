@@ -1,6 +1,6 @@
 eplusout.eso
 sHELLcSVnAME
-STORAGE TANK,Water Heater Heating Energy
+STORAGE TANK,Water Heater Use Side Heat Transfer Energy
 INSTANTANEOUS WATER HEATER,Water Heater Heating Energy
 STORAGE TANK,Water Heater Tank Temperature
 COLLECTOR 1,Solar Collector Heat Transfer Energy
