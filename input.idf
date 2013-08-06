@@ -26,10 +26,10 @@
     Suburbs,                 !- Terrain
     0.04,                    !- Loads Convergence Tolerance Value
     0.04,                    !- Temperature Convergence Tolerance Value {deltaC}
-    FullInteriorAndExterior, !- Solar Distribution
+    MinimalShadowing, !- Solar Distribution
     25;                      !- Maximum Number of Warmup Days
 
-  Timestep,20;
+  Timestep,4;
 
   GlobalGeometryRules,
     UpperLeftCorner,         !- Starting Vertex Position
@@ -726,3 +726,4 @@ Output:Variable,*,Solar Collector Heat Transfer Energy,hourly; !- HVAC Sum [J]
 Output:Variable,*,Water Heater Heat Loss Energy,hourly; !- HVAC Sum [J]
 Output:Variable,*,Plant Load Profile Heating Energy,hourly; !- HVAC Sum [J]
 Output:Variable,*,Solar Collector Efficiency,hourly; !- HVAC Average []
+
